@@ -36,3 +36,6 @@
     - git init: iniciar novo repositorio
     - git status
     - git add
+    - git diff: vericar arquivos modificados
+    - git diff --staged
+    - git commit -m "mensagem": teste
