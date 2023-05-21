@@ -34,14 +34,13 @@
 ## Comandos
     - git clone: clonar repositorio
     - git init: iniciar novo repositorio
-    - git status
-    - git add
+    - git status: exibe as condições do diretório de trabalho e da área de staging
+    - git add: promove alterações pendentes do diretório ativo para a área de staging
     - git diff: vericar arquivos modificados
-    - git diff --staged
-    - git commit -m "mensagem": teste
-    - git log
-    - git restore
-    - git restore --staged
+    - git diff --staged: serve para verificar diferenças entre commits
+    - git commit -m "mensagem": check point para indicar que houve mudança
+    - git log:  exibe uma lista de todos os commits feitos em um repositório
+    - git restore: para restaurar um arquivo no índice que coincida com a versão em HEAD (é o mesmo que usar git-reset)
 
 ## Repositórios Remotos
     - git remote add origin https://github.com/MahFLima/git-digital-course.git
