@@ -40,3 +40,5 @@
     - git diff --staged
     - git commit -m "mensagem": teste
     - git log
+
+* uso do comando restore
