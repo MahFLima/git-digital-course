@@ -39,3 +39,4 @@
     - git diff: vericar arquivos modificados
     - git diff --staged
     - git commit -m "mensagem": teste
+    - git log
