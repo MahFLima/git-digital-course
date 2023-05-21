@@ -45,9 +45,8 @@
 
 ## Repositórios Remotos
     - git remote add origin https://github.com/MahFLima/git-digital-course.git
-    - git remote
-    - git push origin main
-
-    - git diff origin/main: verifica as atualizações de acordo com o repositorio remoto
-    - git pull: atualiza de acordo com o repositorio remoto automaticamente
-    - git fetch: baixa o conteúdo remoto e não altera o estado do repositório local
+    - git remote permite criar, ver e excluir conexões com outros repositórios
+    - git push origin main: usado para enviar o conteúdo do repositório local para um repositório remoto.
+    - git diff origin/main: verifica as atualizações de acordo com o repositorio remoto.
+    - git pull: atualiza de acordo com o repositorio remoto automaticamente.
+    - git fetch: baixa o conteúdo remoto e não altera o estado do repositório local.
