@@ -42,3 +42,12 @@
     - git log
     - git restore
     - git restore --staged
+
+## Repositórios Remotos
+    - git remote add origin https://github.com/MahFLima/git-digital-course.git
+    - git remote
+    - git push origin main
+
+    - git diff origin/main: verifica as atualizações de acordo com o repositorio remoto
+    - git pull: atualiza de acordo com o repositorio remoto automaticamente
+    - git fetch: baixa o conteúdo remoto e não altera o estado do repositório local
