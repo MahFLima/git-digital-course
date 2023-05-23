@@ -56,3 +56,6 @@
     - git log --oneline --decorate: verificar em qual branch você está e lista os commits feitos nessa branch
     - git checkout testing: alterna entre branches
     - .gitignore: ignorar arquivos
+
+
+* git merge testing
