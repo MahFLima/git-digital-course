@@ -51,6 +51,7 @@
     - git fetch: baixa o conteúdo remoto e não altera o estado do repositório local.
 
 ## Branches
+    - git branch: lista as branches que existem
     - git branch testing: cria uma nova branch
     - git log --oneline --decorate: verificar em qual branch você está e lista os commits feitos nessa branch
     - git checkout testing: alterna entre branches
